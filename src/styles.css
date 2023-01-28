@@ -1,0 +1,61 @@
+body {
+  padding-top: 40px;
+  font-family: "Inter", sans-serif;
+}
+
+h1,
+h2,
+h3 {
+  font-family: "Inter", sans-serif;
+}
+
+h1 {
+  font-size: 40px;
+  margin-bottom: 5px;
+  text-transform: capitalize;
+}
+
+h2 {
+  font-size: 30px;
+  font-weight: 400;
+  color: #8f9396;
+  text-transform: capitalize;
+}
+
+h3 {
+  font-size: 90px;
+  font-weight: 400;
+}
+
+.temperature {
+  font-size: 80px;
+  font-weight: 400;
+}
+
+.units {
+  font-size: 20px;
+  position: relative;
+  top: -42px;
+  left: -20px;
+}
+
+a {
+  text-decoration: none;
+}
+
+p {
+  font-size: 30px;
+  font-weight: 300;
+  color: #8f9396;
+}
+
+.weather-app {
+  border: 1px solid grey;
+  padding: 20px;
+  margin: 20px auto;
+  border-radius: 10px;
+}
+
+.search-bar {
+  margin-bottom: 20px;
+}
